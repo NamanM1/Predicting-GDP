@@ -54,15 +54,4 @@ The goal of this project is to develop predictive models for GDP per capita base
 
 6. **Dependencies**: List the required software dependencies (Python and libraries) for running the code.
 
-7. **Contributing**: Encourage others to contribute to the project by explaining how to fork the repository, make changes, and submit pull requests.
-
-8. **License**: Specify the license under which the project is distributed (e.g., MIT License) and refer users to the LICENSE file for more details.
-
-Customize each section with specific details from your project. This structured README file will help users understand your project's purpose, methodology, and how to effectively use and contribute to it.
-
-Contributing
-Contributions are welcome! Fork the repository, create a new branch, commit changes, and open a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
