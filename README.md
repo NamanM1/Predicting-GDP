@@ -40,18 +40,5 @@ The goal of this project is to develop predictive models for GDP per capita base
    ```bash
    git clone https://github.com/yourusername/repository.git
 
-### How to Use:
-
-1. **Introduction**: Briefly describe the purpose of the repository and the techniques used (Ridge and Lasso regression).
-   
-2. **Data**: Outline what kind of data is used, how it's processed, and any specific features or variables of interest.
-
-3. **Methodology**: Explain the approach taken to build and evaluate Ridge and Lasso regression models, including evaluation metrics used.
-
-4. **Results**: Summarize the outcomes and findings from the models, including any diagnostics or assessments performed.
-
-5. **Usage**: Provide step-by-step instructions on how to clone the repository, install dependencies, and run the main script or scripts for data preprocessing and modeling.
-
-6. **Dependencies**: List the required software dependencies (Python and libraries) for running the code.
 
 
