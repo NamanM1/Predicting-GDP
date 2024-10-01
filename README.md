@@ -9,9 +9,6 @@ This repository contains code and resources for predicting GDP per capita using 
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Usage](#usage)
-6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
